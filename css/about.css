@@ -1,0 +1,39 @@
+.img2{
+    height: 500px;
+    width:1200px;
+}
+.description1{
+    margin-top: 20px;
+    background-color: rgb(11, 10, 10);
+    color: white;
+    text-align:left;
+    font-size: 20px;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: 4px 4px 5px 2px black;
+}
+.icons1{
+    display: inline-block;
+    margin: 50px;
+}
+.about-icons{
+    border-radius: 50%;
+    border: 5px solid black;
+    height: 150px;
+    width:150px;
+    margin:20px 50px;
+    box-shadow: 2px 2px 5px 2px black;
+    text-align: center;
+}
+.des{
+    padding: 0px;
+    margin:0px;
+    font-size: 20px;
+    background-color: rgb(11, 10, 10);
+    text-align: center;
+    border-radius: 20px;
+    border: 1px solid black;
+    box-shadow: 1px 1px 3px 2px black;
+    color: white;
+}
